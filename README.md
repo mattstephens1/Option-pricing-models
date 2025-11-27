@@ -9,4 +9,8 @@ This notebook contains:
 
 ## Black-Scholes model
 Uses the formula:
+
+
+
+
 <img width="424" height="143" alt="image" src="https://github.com/user-attachments/assets/092624c6-de5f-4a2c-8a60-fb041a732883" />
